@@ -1,0 +1,13 @@
+# Model weights: publish them in a GitHub Release or on Hugging Face, not in the repo
+*.pt
+*.h5
+*.keras
+# Data and training outputs
+dataset_final/
+detection_dataset/
+*_run/
+runs/
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+Untitled*.ipynb

@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper."
+title: "Hybrid System for Computer-Aided Classification and Detection of Mammographic Lesions"
+authors:
+  - family-names: Villarroel Vocal
+    given-names: Nicolás
+    affiliation: Universidad Privada del Valle
+  - family-names: Martínez Severich
+    given-names: Rodrigo
+  - family-names: Ramos Silvestre
+    given-names: Edgar R.
+  - family-names: Calle Vives
+    given-names: Eynar
+type: software
+date-released: 2026-11-02
+preferred-citation:
+  type: conference-paper
+  title: "Hybrid System for Computer-Aided Classification and Detection of Mammographic Lesions"
+  conference:
+    name: "IEEE SIME 2026"
+  year: 2026
+  authors:
+    - family-names: Villarroel Vocal
+      given-names: Nicolás
+    - family-names: Martínez Severich
+      given-names: Rodrigo
+    - family-names: Ramos Silvestre
+      given-names: Edgar R.
+    - family-names: Calle Vives
+      given-names: Eynar
